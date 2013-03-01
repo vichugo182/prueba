@@ -1,0 +1,13 @@
+
+###### configurar eclipse para utilizar con python
+1- menú “Help, Install New Software…”
+2-agregamos la direccion
+	===http://pydev.org/updates
+3- seleccionamos PyDEV
+
+
+###Tutorial de mercurial####
+mirar http://mercurial.selenic.com/wiki/SpanishTutorial
+
+####Como integrar mercurial con eclipse#####
+mirar http://www.intland.com/blog/google-code-and-mercurial-tutorial-for-eclipse-users/
